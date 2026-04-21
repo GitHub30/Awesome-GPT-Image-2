@@ -28,7 +28,7 @@ If you like this collection, please don't forget to give it a ⭐ **Star**!
 
 ### Canon IXUS Aesthetic Portrait (by @GitHub30)
 
-<img width="1086" height="1448" alt="ChatGPT Image 2026年4月22日 07_27_36" src="https://github.com/user-attachments/assets/6c66a462-8a98-498a-afc7-9615e6f530ff" />
+<img  width="300" alt="ChatGPT Image 2026年4月22日 07_27_36" src="https://github.com/user-attachments/assets/6c66a462-8a98-498a-afc7-9615e6f530ff" />
 
 https://chatgpt.com/share/69e7fa5e-dfc0-8322-935e-4752f83d1cf7
 
@@ -89,7 +89,7 @@ https://chatgpt.com/share/69e7fa5e-dfc0-8322-935e-4752f83d1cf7
 ---
 ### Detailed mirror-selfie otaku room scene (by @GitHub30)
 
-<img width="1254" height="1254" alt="ChatGPT Image 2026年4月22日 07_26_20" src="https://github.com/user-attachments/assets/7f0bf064-4fe4-478a-b303-93f40c959864" />
+<img  width="300" alt="ChatGPT Image 2026年4月22日 07_26_20" src="https://github.com/user-attachments/assets/7f0bf064-4fe4-478a-b303-93f40c959864" />
 
 https://chatgpt.com/share/69e7fa7f-2784-8324-8bb8-c2e3824eb0e1
 
