@@ -24,6 +24,68 @@ If you like this collection, please don't forget to give it a ⭐ **Star**!
 
 ## ✨ GPT-Image-2 Examples
 
+
+
+### Canon IXUS Aesthetic Portrait (by @GitHub30)
+
+<img width="1086" height="1448" alt="ChatGPT Image 2026年4月22日 07_27_36" src="https://github.com/user-attachments/assets/6c66a462-8a98-498a-afc7-9615e6f530ff" />
+
+
+```json
+{
+  "image_parameters": {
+    "style": "Canon IXUS aesthetic",
+    "type": "Point-and-shoot photography",
+    "quality": "Hyper-realistic",
+    "tone": "Sharp, direct",
+    "lighting_and_atmosphere": "Realistic, flash-style/direct lighting"
+  },
+  "subject": {
+    "constraints": {
+      "facial_identity": "Match reference image exactly 100%",
+      "face_edits": "None allowed"
+    },
+    "hair": {
+      "style": "Long, natural, lightly messy layered look",
+      "movement": "Blowing gently in the wind",
+      "details": "Strands slightly covering part of face"
+    },
+    "makeup": {
+      "cheeks_and_nose": "Soft pink blush with blurred effect",
+      "lips": "Subtle pink-orange tinted outline"
+    },
+    "expression": [
+      "Cute",
+      "Naive",
+      "Cheerful",
+      "Slightly sexy/undone charm"
+    ],
+    "pose": {
+      "body_position": "Half-sitting, half-standing",
+      "action": "Flicking hair"
+    },
+    "clothing": {
+      "top": "Black strapless top",
+      "bottom": "Low-waisted jeans with a floating waistline",
+      "neck": "Thin black fabric choker/wrap"
+    },
+    "accessories": [
+      "Small pendant necklace",
+      "Gold watch"
+    ]
+  },
+  "environment": {
+    "setting": "Modern pub",
+    "foreground_props": [
+      "Round table",
+      "Bottle of liquor",
+      "Glass of liquor"
+    ]
+  }
+}
+```
+
+---
 ### Detailed mirror-selfie otaku room scene (by @GitHub30)
 
 <img width="1254" height="1254" alt="ChatGPT Image 2026年4月22日 07_26_20" src="https://github.com/user-attachments/assets/7f0bf064-4fe4-478a-b303-93f40c959864" />
@@ -111,68 +173,6 @@ If you like this collection, please don't forget to give it a ⭐ **Star**!
 ```
 
 ---
-
-### Canon IXUS Aesthetic Portrait (by @GitHub30)
-
-<img width="1086" height="1448" alt="ChatGPT Image 2026年4月22日 07_27_36" src="https://github.com/user-attachments/assets/6c66a462-8a98-498a-afc7-9615e6f530ff" />
-
-
-```json
-{
-  "image_parameters": {
-    "style": "Canon IXUS aesthetic",
-    "type": "Point-and-shoot photography",
-    "quality": "Hyper-realistic",
-    "tone": "Sharp, direct",
-    "lighting_and_atmosphere": "Realistic, flash-style/direct lighting"
-  },
-  "subject": {
-    "constraints": {
-      "facial_identity": "Match reference image exactly 100%",
-      "face_edits": "None allowed"
-    },
-    "hair": {
-      "style": "Long, natural, lightly messy layered look",
-      "movement": "Blowing gently in the wind",
-      "details": "Strands slightly covering part of face"
-    },
-    "makeup": {
-      "cheeks_and_nose": "Soft pink blush with blurred effect",
-      "lips": "Subtle pink-orange tinted outline"
-    },
-    "expression": [
-      "Cute",
-      "Naive",
-      "Cheerful",
-      "Slightly sexy/undone charm"
-    ],
-    "pose": {
-      "body_position": "Half-sitting, half-standing",
-      "action": "Flicking hair"
-    },
-    "clothing": {
-      "top": "Black strapless top",
-      "bottom": "Low-waisted jeans with a floating waistline",
-      "neck": "Thin black fabric choker/wrap"
-    },
-    "accessories": [
-      "Small pendant necklace",
-      "Gold watch"
-    ]
-  },
-  "environment": {
-    "setting": "Modern pub",
-    "foreground_props": [
-      "Round table",
-      "Bottle of liquor",
-      "Glass of liquor"
-    ]
-  }
-}
-```
-
----
-
 
 ## 🙏 Acknowledgements
 
