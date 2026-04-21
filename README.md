@@ -176,6 +176,231 @@ https://chatgpt.com/share/69e7fa7f-2784-8324-8bb8-c2e3824eb0e1
 
 ---
 
+### Convenience Store Neon Portrait (by @BubbleBrain)
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/245f8c56-0853-4da7-bde9-472bcfdd00f7" />
+
+```
+35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
+```
+
+### Japanese Onsen Ryokan Portrait (by @BubbleBrain)
+
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2c836ec-e89a-4ab2-b75e-f602f3945fa2" />
+
+```
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+
+### Korean Idol 3x3 Grid Portrait (by @BubbleBrain)
+
+<img width="675" height="1199" alt="image" src="https://github.com/user-attachments/assets/509fa0e8-8095-43eb-9c71-e192de50638b" />
+
+```
+9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
+```
+
+### Guangdong Super League Invitation Poster (by @liyue_ai)
+
+
+<img width="675" height="1199" alt="image" src="https://github.com/user-attachments/assets/2cfeb271-1b3c-43a7-84d1-32fc5bd336c8" />
+
+```
+广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
+```
+
+### Epic Silhouette World Poster (by @Ghhhh3owi)
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9124b51-70ea-431b-ab94-42e0013b5c76" />
+
+```
+收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
+```
+
+### Journey to the West Chinese Comic (by @overseas58)
+
+<img width="1200" height="960" alt="image" src="https://github.com/user-attachments/assets/7a0d63f9-4f53-4683-aa03-e35e6ac60168" />
+
+```
+以中国连环画（小人书）的风格帮我绘制大闹天空
+```
+
+### Character Relationship Map Poster (by @MrLarus)
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/f94b22a8-9976-4e06-8be1-f62c7409a8ce" />
+
+
+```
+请根据【主题】生成一张高设计感的人物关系图海报。
+```
+
+### Fictional Anime Movie Poster (by @seiiiiiiiiiiru)
+
+<img width="848" height="1200" alt="image" src="https://github.com/user-attachments/assets/03784983-ea90-465d-87bc-52010685e026" />
+
+```
+架空のアニメ映画のポスターをGPT image2で作成。
+```
+
+### Product Ad Redesign (by @genel_ai)
+
+<img width="848" height="1200" alt="image" src="https://github.com/user-attachments/assets/69121660-540f-4ff6-a0dd-c2a7b234420f" />
+
+```
+この商品広告をプロのデザイナー目線でリデザインして。
+今のトレンド、ターゲットに合わせた洗練されたデザインで。
+```
+
+### Backpropagation Diagram Poster (by @itnavi2022)
+
+<img width="1106" height="1200" alt="image" src="https://github.com/user-attachments/assets/fb95bb08-504c-48f4-96d9-6384a77d1c71" />
+
+```
+バックプロパゲーションについて詳しく図解して
+```
+
+### Handwritten Medical Prescription Sheet (by @MrLarus)
+
+<img width="899" height="1199" alt="image" src="https://github.com/user-attachments/assets/e87a3bc0-1f9b-4ed7-9ea9-9917bac46bca" />
+
+
+```
+生成一张手写中/西医药方图
+```
+
+### Japanese Supermarket Sale Flyer (by @weel_corp)
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/689f76e6-6664-420c-a76e-86e41d8f1f3f" />
+
+
+```
+『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
+```
+
+### Pilates Studio Ad Poster (by @ck_igarashi)
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/bf66106a-1bc6-4bbb-9fc0-fc970ce7a2d3" />
+
+```
+ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
+```
+
+### Ultra-Dense Information Design (by @EchoraContinuum)
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/bd2b0646-350d-469c-afa7-4d33587f2e6c" />
+
+
+```
+Generate somthing super complex and info dense...
+```
+
+### Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp)
+
+<img width="1093" height="1200" alt="image" src="https://github.com/user-attachments/assets/880bcbf4-7400-4bca-b691-7468432b7469" />
+
+
+```
+用可爱的风格讲述中国远征军的历史故事
+用波普风格讲述金刚经
+```
+
+### Chili Pork Cooking Flowchart (by @Kurt_Rousey466)
+<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/9b3517bc-621c-4397-9086-5132e5185176" />
+
+```
+帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
+```
+
+### Amateur iPhone Keynote Snapshot (by @patrickassale)
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/ad187eff-ce89-4be4-8a87-51d680ad82fa" />
+
+```
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+
+### Museum-Style Hanfu Breakdown Infographic (by @MrLarus)
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f2bdcfbb-87cd-42d6-ba28-67becb09b2e6" />
+
+
+```
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+```
+
+### Japanese RPG Status Screen (by @Kashiko_AIart)
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/596b64d5-d943-41f6-ab03-4e5d77567af0" />
+
+
+```
+この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
+```
+
+### City Travel Guide Infographic (by @MrLarus)
+
+<img width="675" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5585365-e62c-4fbe-8290-eff90e9b7351" />
+
+
+```
+生成【城市】三天旅游攻略,就这么简单一句话
+```
+
+### Japanese Gacha Game Screen (by @the_wheel_2024)
+
+<img width="675" height="1199" alt="image" src="https://github.com/user-attachments/assets/4de41fa9-ef28-4129-af6a-df27ffda1d0d" />
+
+
+```
+日本のソシャゲのガチャ画面を生成して、
+```
+
+### Trump and Kim Livestream PK Screenshot (by @alanlovelq)
+
+<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/7600d006-d687-4e08-b699-2227297aa18d" />
+
+```
+1、生成特朗普和金正恩在抖音直播间打PK的截图  
+2、生成不知火舞的小红书主页截图  
+3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  
+4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
+```
+
+### A/B Test Signed Output (by @saskr_13)
+
+<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/632cf7ae-cc2d-42c8-be34-509d2e5738c4" />
+
+```
+私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
+```
+
+### Forged Masterpiece Prompt Test (by @MrLarus)
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/f22036c7-e03d-4b10-9157-2672df3ea9c2" />
+
+```
+帮我生成xxxx真迹图片
+```
+
 ## 🙏 Acknowledgements
 
 We would like to express our gratitude to all the creators on Twitter/X, Reddit, and other platforms who have shared their brilliant GPT-Image-2 prompts and artworks. Your creativity is the foundation of this repository!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GitHub30/Awesome-GPT-Image-2&type=Date)](https://www.star-history.com/#GitHub30/Awesome-GPT-Image-2&Date)
